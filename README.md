@@ -2,7 +2,7 @@ O trabalho 1 consiste em desenvolver o código para fazer reconhecimento facial,
 
 Refatorar o código fornecido em sala para que a API de latitude e longitude com as seguintes alterações:
 
-1- incomporar heap para que a busca retorne os N vizinhos mais próximo na árvore KD
+1- incomporar heap para que a busca retorne os N vizinhos mais próximo na árvore KD (opcional)
 
 2- alterar a estrutura de dados para que ela comporte um vetor de 128 floats  e uma string de 100 caracteres para representar respectivamente o embedding de face e o id da pessoa
 
