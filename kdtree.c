@@ -4,6 +4,7 @@
 #include <string.h>
 #include <assert.h>
 #include <math.h> 
+#include"heap.c"
 
 /*Definições desenvolvedor usuario*/
 #define embtamanho 128 
