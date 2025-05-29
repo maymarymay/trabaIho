@@ -6,4 +6,4 @@ Refatorar o código fornecido em sala para que a API de latitude e longitude com
 
 2- alterar a estrutura de dados para que ela comporte um vetor de 128 floats  e uma string de 100 caracteres para representar respectivamente o embedding de face e o id da pessoa
 
-Depois, faça chamadas a API para armazenar 1000 faces, incluindo a sua (SUA?!?! [no caso minha né]) e de mais duas pessoas e verifique se dentre as 5 mais proximas está a sua da pessoa conhecida com auxilio do códico no Google Collab
+Depois, faça chamadas a API para armazenar 1000 faces, incluindo a sua (SUA?!?! [no caso minha né]) e de mais duas pessoas e verifique se dentre as 5 mais proximas está a sua da pessoa conhecida com auxilio do código no Google Collab
