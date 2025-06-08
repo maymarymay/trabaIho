@@ -15,7 +15,7 @@ void troca(nodeHeap *a, nodeHeap *b);
 int pai(int i);
 int filhoEsq(int i);
 int filhoDir(int i);
-theap *construir_Heap(int i);
+theap *construir_heap(int i);
 void desce(theap *heap, int i);
 void sobe(theap *heap, int i);
 void insere(theap *heap, nodeHeap node);
