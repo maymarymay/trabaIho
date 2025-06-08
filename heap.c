@@ -2,18 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<assert.h>
-
-/* DECLARACOES */
-typedef struct {
-    double distancia;
-    void *infos; 
-} nodeHeap;
-
-typedef struct {
-    nodeHeap *lista;
-    int cap;
-    int tam;
-} theap;
+#include "heap.h" 
 
 /* FUNCOES HEAP */
 void troca(nodeHeap *a, nodeHeap *b){
