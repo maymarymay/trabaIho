@@ -18,5 +18,5 @@ int filhoDir(int i);
 theap *construir_heap(int i);
 void desce(theap *heap, int i);
 void sobe(theap *heap, int i);
-void insere(theap *heap, nodeHeap node);
+void insere(theap *heap, nodeHeap n);
 void liberar(theap *heap);
